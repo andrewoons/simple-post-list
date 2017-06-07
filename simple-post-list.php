@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Simple Post List
+ * Plugin Name: Simple Post List Plugin
  * Plugin URI: https://github.com/andrewoons/simple-post-list
  * Description: Wordpress plugin that generates a really simple post list, divided by year 
  * Version: 1.0
