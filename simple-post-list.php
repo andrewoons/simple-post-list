@@ -26,7 +26,7 @@ if ( !class_exists( 'Simple_Post_List' ) ) {
 
             if (empty($lastyear) || (int)get_the_date('Y') < $lastyear ) {
                 $lastyear = (int)get_the_date('Y');
-                echo '<h2>' . $lastyear . '</h2>';
+                echo '<h2 class="posts-divider">' . $lastyear . '</h2>';
             }
 
             echo '<p><a class="posts-link" href="' . get_the_permalink() . '">' . get_the_title() . '</a></p>';
