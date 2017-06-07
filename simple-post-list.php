@@ -5,7 +5,7 @@
  * Description: Wordpress plugin that generates a really simple post list, divided by year 
  * Version: 1.0
  * Author: Andre Woons
- * Author URI: https://andrewoons.com
+ * Author URI: http://andrewoons.com
  * License: GNU General Public License v3.0
  */
 
