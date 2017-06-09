@@ -1,4 +1,4 @@
-# simple-post-list
+# simple-post-lists
 
 Wordpress plugin that generates a really simple post list, divided by year.
 
