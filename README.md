@@ -33,6 +33,9 @@ You can change the styling of the dividers and the links by adding custom css fo
 
 == Changelog ==
 
+= 1.0.1 =
+Updated assets.
+
 = 1.0 =
 * First version of the plugin.
 
